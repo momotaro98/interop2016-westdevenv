@@ -1,0 +1,4 @@
+*.swp
+.python-version
+door-api
+site.retry

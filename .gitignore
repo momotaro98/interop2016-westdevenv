@@ -1,4 +1,6 @@
+door-api
+.vagrant
+
 *.swp
 .python-version
-door-api
 site.retry
